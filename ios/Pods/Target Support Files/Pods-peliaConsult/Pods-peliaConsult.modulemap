@@ -1,0 +1,6 @@
+module Pods_peliaConsult {
+  umbrella header "Pods-peliaConsult-umbrella.h"
+
+  export *
+  module * { export * }
+}

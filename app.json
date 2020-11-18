@@ -1,0 +1,16 @@
+{
+
+  "name": "peliaConsult",
+  "displayName": "peliaConsult",
+
+
+  "expo": {
+    "name": "peliaConsult",
+    "slug": "peliaConsult",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+
+  }
+}
